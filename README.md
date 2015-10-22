@@ -70,11 +70,13 @@ Tips: Hold the students to a high standard!  The UI should look like something y
 - Clicking the 'Add to cart' button should go to a page showing the current cart
 - Functional app deployed to heroku
 - 100% test coverage
-- Unit tests on the model
-- Controller tests
-- Validations
+- Unit tests on the new models
+- Controller tests on the new controllers
+- Validations on the new models
 - Coding 'The Rails Way'
 - Proper git workflow and commit messages
+- At least one feature test on the shopping cart
+- Optional: Feature tests on the CRUD
 
 ##### Client meeting script
 
