@@ -46,11 +46,13 @@ Tips: Watch out for feature and scope creep, look for reasonable UX in the wiref
 
 ##### Client meeting script:
 
-#### Iteration 3: Responsive layout
+#### Iteration 3: Responsive layout with an inventory view for the merchant and a shop view for the shoppers
 
 ##### Requirements for senior engineer sign off
 
 - Beautiful, usable, responsive layout
+- UX for inventory view should be tabular, very functional, designed to help the merchant move through lots of data quickly
+- UX for the shopper's view should be visual, maybe a grid of product images, should encourage spending time and slow browsing
 - Use a CSS reset
 - Use a CSS responsive grid
 - Use some organizing CSS methodology, either some flavor of semantic CSS or the Atomic pattern
