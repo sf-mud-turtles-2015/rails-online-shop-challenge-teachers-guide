@@ -24,8 +24,6 @@ Here is an [example](https://docs.google.com/spreadsheets/d/14r-3aPGNZcPXPXZegyD
 
 #### Iteration 1: User Stories, wireframes, and data requirements
 
-- No client needed yet, students start with the vague description in the challenge.
-
 ##### Requirements for senior engineer sign off
 - User stories 
 - Wireframes
@@ -35,7 +33,6 @@ Tips: Watch out for feature and scope creep, look for reasonable UX in the wiref
 
 #### Iteration 2: Products CRUD for the merchant
 
-- No client needed yet, students start with the vague description in the challenge readme.
 
 ##### Requirements for senior engineer sign off
 
