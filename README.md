@@ -14,7 +14,7 @@ App requirements are provided by the 'client' and code review and technical cons
 
 The senior engineer signs off on the code base for an iteration before a pair can have their next meeting with the client and find out what feature they are building next.
 
-This structure serves to hold students accountable for code and app quality, test coverage, writing code 'The Rails Way', agile and incremental development processess, and implementing high quality UX and visual design.  Conversely, the structure holds teachers accountable for providing frequent feedback on the students' code base and frequent 2-student-to-1-teacher interactions. 
+This structure serves to hold students accountable for code and app quality, test coverage, writing code 'The Rails Way', agile and incremental development processess, and implementing high quality UX and visual design.  Conversely, the structure holds teachers accountable for providing frequent feedback on the students' code base and frequent 2-student-to-1-teacher ratio interactions. 
 
 This challenge is based on Agile Web Development with Rails 4 (by Sam Ruby, Dave Thomas, and DHH).  There are 18 copies of the book available to support student learning and to support the teachers running the challenge.  All the info a teacher needs to teach this challenge is in the book.
 
