@@ -1,6 +1,6 @@
 # Teachers Guide to the Rails Online Shop challenge (Phase 3)
 
-### Goals and Process
+### Goals
 
 The goals of this challenge are to:
 - Practice agile, iterative development 
@@ -10,11 +10,22 @@ The goals of this challenge are to:
 - Build a usable and beautiful responsive layout
 - Practice onboarding/being onboarded onto a new code base
 
+### Process
+
 App requirements are provided by the 'client' and code review and technical consultion is provided by the 'senior engineer'.  The 'client' and 'senior engineer' roles are played phase 3 teachers.
 
 The senior engineer signs off on the code base for an iteration before a pair can have their next meeting with the client and find out what feature they are building next.
 
-This structure serves to hold students accountable for code and app quality, test coverage, writing code 'The Rails Way', agile and incremental development processess, and implementing high quality UX and visual design.  Conversely, the structure holds teachers accountable for providing frequent feedback on the students' code base and frequent 2-student-to-1-teacher ratio interactions. 
+This structure helps teachers to hold students accountable for:
+- code and app quality 
+- test coverage
+- learnng to write code 'The Rails Way' 
+- agile and incremental development processess 
+- implementing high quality UX and visual design.  
+
+Conversely, the structure holds teachers accountable for providing frequent feedback on the students' code base and frequent 2-student-to-1-teacher ratio interactions. 
+
+### Resources
 
 This challenge is based on Agile Web Development with Rails 4 (by Sam Ruby, Dave Thomas, and DHH).  There are 18 copies of the book available to support student learning and to support the teachers running the challenge.  All the info a teacher needs to teach this challenge is in the book.
 
@@ -29,7 +40,7 @@ Here is an [example](https://docs.google.com/spreadsheets/d/14r-3aPGNZcPXPXZegyD
 - Wireframes
 - Data model
 
-Tips: Watch out for feature and scope creep, look for reasonable UX in the wireframes, and look out for unwarranted implementation details and assumptions.  Encourage the students to move through this step as quickly as possible and not be too attached, 'cause it will probably change a lot!
+Tips: Watch out for feature and scope creep, look for reasonable UX in the wireframes, and look out for unwarranted implementation details and assumptions.  Encourage the students to move through this step as quickly as possible (about an hour) and not be too attached, 'cause it will probably change a lot!
 
 #### Iteration 2: Products CRUD for the merchant
 
@@ -85,7 +96,7 @@ Tips: Hold the students to a high standard!  The UI should look like something y
 - Ajaxify the shopping cart
 - Removal of products from the shopping cart
 - Implement checkout functionality and integrate Stripe for payment processing
-- Image upload for the admin with carrierwave gem
+- Image upload for the admin with carrierwave gem or with heroku
 - Send a confirmation email for the order
-- Authentication with devise gem or omniauth gem
+- Authentication and authorization with devise gem or omniauth gem
 - Authorization with pundit gem
